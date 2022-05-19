@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="mod1">C346 Mobile App Development</string>
+    <string name="mod2">C322 Data Centre and Cloud Management</string>
+
+    <string name="back">BACK</string>
+</resources>
